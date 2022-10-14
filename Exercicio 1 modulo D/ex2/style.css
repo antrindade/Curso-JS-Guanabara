@@ -1,0 +1,31 @@
+body {
+    background: hsl(210, 100%, 50%);
+    font: normal 15pt arial;
+}
+
+header {
+    color: hsl(100, 100%, 100%); 
+    text-align: center;
+}
+
+section {
+    background: hsl(000, 100%, 100%);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px hsla(0, 0%, 0%, 60%); 
+}
+
+#imagem {
+    border-radius: 110px;
+    width: 300px;
+    padding: 15px;   
+    align-items: center;
+}
+
+footer {
+    color: hsl(100, 100%, 100%);
+    text-align: center;
+    font-style: italic;    
+}

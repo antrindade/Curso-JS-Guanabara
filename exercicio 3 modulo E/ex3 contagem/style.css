@@ -1,0 +1,52 @@
+* {
+    margin: auto;
+    padding: 0%;
+}
+
+body {
+    background: hsl(290, 10%, 50%);
+}
+
+h1 {
+    position: relative;
+    top: 45px;
+    text-align: center;
+    font: normal 45px arial;
+}
+
+#grid-container {
+    position: absolute;
+    background-color: hsl(100, 10%, 100%);
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 550px;
+    height: 400px;
+    margin: auto;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    font: normal 15px arial;
+}
+
+input {
+    margin-bottom: 35px;
+    width: 150px;
+    height: 24px;    
+    box-sizing: border-box;
+    border-style:solid;
+}
+
+#contar {
+    width: 80px;
+    height: 25px;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    margin: auto;
+    top: 470px;
+    font-style: italic;
+}
